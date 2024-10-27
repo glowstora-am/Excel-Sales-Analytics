@@ -1,20 +1,20 @@
 ## report1.pdf :
 
 
-- **Project objective:** Create 'Atliq Hardwares' work performance based on the market
+- **Project objective:** Create work performance for 'Atliq Harwares' based on market.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower Atliq Hadwares analyze their perforamce on Net Sales, COGS, Gross Margin and GM%.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Identify highest perforamce.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** Identify potential business expansion opportunities in promising countries.
 
 
-## Finance Report :
+## [report2.pdf](https://github.com/glowstora-am/Excel-Sales-Analytics/blob/main/report2.pdf) :
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
