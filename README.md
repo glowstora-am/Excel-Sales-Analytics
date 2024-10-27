@@ -1,28 +1,61 @@
-## report1.pdf :
+## [report1.pdf](https://github.com/glowstora-am/Excel-Sales-Analytics/blob/main/report1.pdf):
 
 
 - **Project objective:** Create work performance for 'Atliq Harwares' based on market.
 
-- **Purpose of sales analytics:** Empower Atliq Hadwares analyze their perforamce on Net Sales, COGS, Gross Margin and GM%.
+- **Purpose of sales analytics:** Empower Atliq Hadwares to analyze their perforamce on Net Sales, COGS, Gross Margin and GM%.
 
-- **Importance of analyzing sales data:** Identify highest perforamce.
+- **Importance of analyzing sales data:** Identify highest perforamce market.
 
 - **Role of reports:** Identify potential business expansion opportunities in promising countries.
 
 
 ## [report2.pdf](https://github.com/glowstora-am/Excel-Sales-Analytics/blob/main/report2.pdf) :
 
-- **Project objective:** 
+- **Project objective:** Create performance report based on Financial Quarters and organize it by Fiscal Years.
 
-    **1.** 
+- **Purpose of sales analytics:** Evaluation of financial performance on Sub Zones based on Financial Quarters Performance.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+- **Importance of analyzing Finance data:** Identifing Highest GM% for every Quarter and Fiscal Year.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Role of reports:** Identifing Sub Zones with the highest performance.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+## [report_templates.pdf](https://github.com/glowstora-am/Excel-Sales-Analytics/blob/main/report_templates.pdf):
+
+
+- **Project objective:** Create work performance for 'Atliq Harwares' based on market.
+
+- **Purpose of sales analytics:** Empower Atliq Hadwares to analyze their perforamce on Net Sales, COGS, Gross Margin and GM%.
+
+- **Importance of analyzing sales data:** Identify highest perforamce market.
+
+- **Role of reports:** Identify potential business expansion opportunities in promising countries.
+
+
+ 
+ ## [Scenario Planning Tool_Beautified.pdf](https://github.com/glowstora-am/Excel-Sales-Analytics/blob/main/Scenario%20Planning%20Tool_Beautified.pdf) :
+
+- **Project objective:** Create performance report based on Financial Quarters and organize it by Fiscal Years.
+
+- **Purpose of sales analytics:** Evaluation of financial performance on Sub Zones based on Financial Quarters Performance.
+
+- **Importance of analyzing Finance data:** Identifing Highest GM% for every Quarter and Fiscal Year.
+
+- **Role of reports:** Identifing Sub Zones with the highest performance.
+
+
+## [Project Priority Matrix_Beautified.pdf](https://github.com/glowstora-am/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix_Beautified.pdf):
+
+
+- **Project objective:** Create work performance for 'Atliq Harwares' based on market.
+
+- **Purpose of sales analytics:** Empower Atliq Hadwares to analyze their perforamce on Net Sales, COGS, Gross Margin and GM%.
+
+- **Importance of analyzing sales data:** Identify highest perforamce market.
+
+- **Role of reports:** Identify potential business expansion opportunities in promising countries.
+
 
 
 ## Technical & Soft Skills:
